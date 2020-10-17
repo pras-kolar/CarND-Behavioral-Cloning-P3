@@ -134,10 +134,6 @@ model.compile(optimizer='adam',
               metrics=['accuracy'])
 
 # add images and angles to data set
-#img_center = np.array(img_center)
-#img_left = np.array(img_left)    
-#img_right = np.array(img_right)
-
 
 """
 # Adding the input layer and the first hidden layer
